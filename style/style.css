@@ -6,7 +6,7 @@ body{
 
 header{
    background-image: url(../assets/gunsNroses.jpg);
-   height: 1700px;
+   height: 1000px;
    background-size: cover; 
    background-position: center;
    background-repeat: no-repeat;
@@ -31,7 +31,7 @@ header h1{
 }
 .BannerAzul p{
     margin: 0px;
-    font-size: 40px;
+    font-size: 30px;
     color: white;
 }
 
@@ -43,7 +43,7 @@ header h1{
 }
 
 .rockFamous .famoso{
-    width: 600px;
+    width: 400px;
     height: 94  0px;
     box-shadow: 10px 15px 28px gray;
     border-radius: 20px;
@@ -51,7 +51,7 @@ header h1{
 
 .rockFamous img{
     
-    width: 600px;
+    width: 400px;
     height: 350px;
     margin-left: 1px;
     border-top-left-radius: 20px;
@@ -65,7 +65,7 @@ header h1{
 }
 
 .titulofamoso h3{
-    font-size: 30px;
+    font-size: 18px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 10px;
 }
@@ -83,7 +83,7 @@ header h1{
     align-items: center;
 }
 .famoso p{
-    font-size: 30px;
+    font-size: 20px;
     margin-bottom: 20px;
     padding: 10px;
 }
