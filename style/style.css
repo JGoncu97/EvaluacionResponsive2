@@ -44,14 +44,18 @@ header h1{
 
 .rockFamous .famoso{
     width: 600px;
-    height: 1200px;
+    height: 94  0px;
     box-shadow: 10px 15px 28px gray;
-    border-radius: 5px;
+    border-radius: 20px;
 }
 
 .rockFamous img{
+    
     width: 600px;
-    height: 400px;
+    height: 350px;
+    margin-left: 1px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
 }
 
 .titulofamoso{
@@ -63,6 +67,7 @@ header h1{
 .titulofamoso h3{
     font-size: 30px;
     font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
 }
 
 .famoso .banda{
@@ -79,8 +84,10 @@ header h1{
 }
 .famoso p{
     font-size: 30px;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
+    padding: 10px;
 }
+
 
 footer{
     text-align: center;
@@ -110,12 +117,14 @@ header h1{
 }
 
 .BannerAzul p{
-    font-size: 25px;
+    font-size: 30px;
    padding: 30px;
-   padding-left: 50px;
+   padding-left: 19px;
+   padding-right: 79px;
+   font-family: Arial, Helvetica, sans-serif;
 }
 .BannerAzul{
-    height: 350px;
+    height: 550px;
 
 
 }
